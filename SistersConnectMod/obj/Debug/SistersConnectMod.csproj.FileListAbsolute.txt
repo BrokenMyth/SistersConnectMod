@@ -1,0 +1,7 @@
+E:\Game\Long\Sisters Connect\BepInEx\plugins\SistersConnectMod.dll
+E:\Game\Long\Sisters Connect\BepInEx\plugins\SistersConnectMod.pdb
+E:\Game\Long\Sisters Connect\mod\SistersConnectMod\SistersConnectMod\obj\Debug\SistersConnectMod.csproj.AssemblyReference.cache
+E:\Game\Long\Sisters Connect\mod\SistersConnectMod\SistersConnectMod\obj\Debug\SistersConnectMod.csproj.CoreCompileInputs.cache
+E:\Game\Long\Sisters Connect\mod\SistersConnectMod\SistersConnectMod\obj\Debug\SistersC.BA5B6F63.Up2Date
+E:\Game\Long\Sisters Connect\mod\SistersConnectMod\SistersConnectMod\obj\Debug\SistersConnectMod.dll
+E:\Game\Long\Sisters Connect\mod\SistersConnectMod\SistersConnectMod\obj\Debug\SistersConnectMod.pdb
